@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zain Malik</h1>
-<h3 align="center">Full Stack Developer passionate about crafting secure, scalable web applications and integrating DevOps practices for seamless deployment.</h3>
+# 👋 Hello, I'm Zain Malik  
+
+_*Full Stack Developer*_ 🌍 Islamabad  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainmalik01&label=Profile%20views&color=0e75b6&style=flat" alt="zainmalik" /> </p>
 
@@ -9,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced Kubernetes, Shopify Development, and Cybersecurity Practices**
 
-- 💬 Ask me about **Angular, React, Next.js, Node.js, DevOps, and Cybersecurity**
+- 💬 Ask me about **Full Stack Development,DevOps and Cybersecurity**
 
 - 📫 How to reach me **zainmalik9964@gmail.com**
   
@@ -64,3 +66,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainmalik01&show_icons=true&locale=en" alt="zainmalik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainmalik01&" alt="zainmalik" /></p>
+
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+
+⭐️ From [Zain](http://git.io/zainmalik01)
+
