@@ -12,6 +12,10 @@
 - 💬 Ask me about **Angular, React, Next.js, Node.js, DevOps, and Cybersecurity**
 
 - 📫 How to reach me **zainmalik9964@gmail.com**
+  
+-  🌐 Learn more about me: **https://bento.me/zain-malik**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
